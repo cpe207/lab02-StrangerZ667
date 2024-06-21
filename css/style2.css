@@ -1,0 +1,49 @@
+body{
+    background: #F7DED0;
+}
+h1{
+    font-family: "Varela", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+}
+a{
+    font-family: "Jaro", sans-serif;
+    font-size: 40px;
+}
+h2{
+    text-align: center;
+    font-family: "Varela", sans-serif;
+    font-weight: 40;
+    margin-left: 300px;
+    font-style: normal;
+    border: 10px #F5DAD2 solid;
+    padding: 5px;
+    border-radius: 25px;
+}
+.box{
+    display:flex;
+    margin-left: 150px;
+    margin-top: 50px;
+    align-items:center;
+}
+.navi{
+    background: #E2BFB3;
+    margin-top: -10px;
+    text-align: center;
+}
+.Isekai{
+    display:flex;
+    margin-top: 50px;
+    align-items:center;
+}
+.PixelCar{
+    display:flex;
+    margin-top: 120px;
+    align-items:center;
+}
+.TAMD{
+    display:flex;
+    margin-top: 200px;
+    align-items:center;
+}
