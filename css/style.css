@@ -1,0 +1,53 @@
+body{
+    background: #CCD3CA;
+}
+h1{
+    font-family: "Zeyada", sans-serif;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 4000;
+}
+a{
+    font-family: "Jaro", sans-serif;
+    font-size: 40px;
+}
+img{
+    border-radius: 50%;
+    margin-left: 100px;
+}
+h2{
+    text-align: center;
+    font-family: "Varela", sans-serif;
+    font-weight: 40;
+    margin-left: 300px;
+    font-style: normal;
+    border: 10px #F5DAD2 solid;
+    padding: 5px;
+    border-radius: 25px;
+}
+.box{
+    display:flex;
+    margin-left: 150px;
+    margin-top: 50px;
+    align-items:center;
+}
+.navi{
+    background: #F5DAD2;
+    margin-top: -10px;
+    text-align: center;
+}
+.Programming{
+    display:flex;
+    margin-top: 50px;
+    align-items:center;
+}
+.Gaming{
+    display:flex;
+    margin-top: 300px;
+    align-items:center;
+}
+.Speak{
+    display:flex;
+    margin-top: 300px;
+    align-items:center;
+}
